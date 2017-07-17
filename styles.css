@@ -1,0 +1,46 @@
+#navlogo {
+  font-family: 'Comfortaa';
+  color: #3B5B86;
+  font-size:24px;
+  margin-bottom:8px;
+}
+
+#sublogo {
+  font-family: 'Comfortaa';
+  color: grey;
+  font-size:15px;
+}
+
+#navright {
+  padding-top: 8px;
+}
+
+#navright a {
+  font-size: 17px;
+  color: black;
+}
+
+#navright a:hover {
+  color: blue;
+}
+
+.navbar-brand {
+    line-height: 15px;
+    font-size: 15px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+.navbar-brand a:hover {
+  text-decoration:none;
+}
+
+.navbar {
+    padding-top: 5px;
+    padding-bottom: 10px;
+    min-height: 70px !important;
+}
+
+.navbar-header {
+  min-height: 70px;
+}
